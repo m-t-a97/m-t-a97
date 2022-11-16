@@ -1,6 +1,4 @@
 ## Hi there :wave:, my name's Tanvir.
 
-<p>I'm a Full-Stack Software Developer who uses the latest and greatest technologies. I'm always striving to better myself and learn new skills, as well as bolster my skillset in the process. What motivates me to keep learning new tech is that somewhere down the line, it will benefit me whenever I am in a situation where that tech/skill would be required. This is why I never give up on trying to learn new things every day.
+<p>I'm a Full-Stack Software Developer who uses the latest and greatest technologies. I love learning about and using the latest tech out there. I'm actively working with React + Next.js at the moment along with build tools such as Turborepo and Vite. Also learning Golang at the moment and utilising it on the backend. 
 </p>
-
-- :computer: I’m currently working on building apps on both Web2 and Web3. My tech stack primarily consists of using React/Next.js, NodeJS, Google Cloud Platform and Ethereum / Algorand.
