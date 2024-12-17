@@ -6,7 +6,7 @@ This is a list of the technologies I use or have recently worked with:
 
 `Frontend`:
 - HTML, CSS, JavaScript / TypeScript
-- React, Next.js
+- React, Next.js, React Native
 
 `Backend`:
 - Node.js (Express.js / Nest.js)
@@ -14,7 +14,7 @@ This is a list of the technologies I use or have recently worked with:
 
 `Databases`:
 - SQL: Postgresql
-- NoSQL: Firestore, MongoDB, DynamoDB
+- NoSQL: Firestore, MongoDB
 
 `Cloud`:
 - GCP
@@ -24,3 +24,4 @@ This is a list of the technologies I use or have recently worked with:
 - Redis
 - RabbitMQ
 - Apache Kafka / Redpanda (exploring)
+- Workflow Orchestration & Automation
