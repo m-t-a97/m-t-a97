@@ -6,7 +6,7 @@ This is a list of the technologies I use or have recently worked with:
 
 `Frontend`:
 - HTML, CSS, JavaScript / TypeScript
-- React, Next.js, React Native
+- React, Next.js, React Native, Vue.js, Angular
 
 `Backend`:
 - Node.js (Express.js / Nest.js)
