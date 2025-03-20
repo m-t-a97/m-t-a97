@@ -26,15 +26,4 @@ I'm a Senior Full-Stack Software Engineer who uses the latest and greatest techn
 - Event Streaming: Apache Kafka / Redpanda (exploring)
 - Workflow Orchestration & Automation: Kestra
 
-<div>
-  <a href="https://github.com/m-t-a97/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=m-t-a97&show_icons=true&show=prs_merged,prs_merged_percentage&theme=radical" />
-  </a>
-  <a href="https://github.com/m-t-a97/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-t-a97&layout=donut&langs_count=5&hide=solidity,vue,scss,dockerfile,shell&card_width=320" />
-  </a>
-</div>
-
 <br/>
-
-![](https://komarev.com/ghpvc/?username=m-t-a97&color=blue&label=PROFILE+VIEWS&abbreviated=true)
