@@ -2,7 +2,7 @@
 
 I'm a Senior Full-Stack Software Engineer who uses the latest and greatest technologies. I love learning about and using the latest tech out there. 
 
-This is a list of the technologies I use or have recently worked with:
+### Tech Stack:
 
 `Frontend`:
 - HTML, CSS, JavaScript / TypeScript
@@ -21,10 +21,10 @@ This is a list of the technologies I use or have recently worked with:
 - AWS
 
 `Others`:
-- Redis
-- RabbitMQ
-- Apache Kafka / Redpanda (exploring)
-- Workflow Orchestration & Automation
+- Cache: Redis
+- Message Queues: RabbitMQ
+- Event Streaming: Apache Kafka / Redpanda (exploring)
+- Workflow Orchestration & Automation: Kestra
 
 <div>
   <a href="https://github.com/m-t-a97/github-readme-stats">
