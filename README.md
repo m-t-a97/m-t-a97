@@ -10,7 +10,7 @@ I'm a Senior Full-Stack Software Engineer who uses the latest and greatest techn
 
 `Backend`:
 - Node.js (Express.js / Nest.js)
-- Golang (exploring)
+- Go
 
 `Databases`:
 - SQL: Postgresql
