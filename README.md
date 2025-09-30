@@ -23,5 +23,5 @@ I'm a Senior Full-Stack Software Engineer who uses the latest and greatest techn
 `Others`:
 - Cache: Redis
 - Message Queues: RabbitMQ
-- Event Streaming: Apache Kafka / Redpanda (exploring)
+- Event Streaming: Apache Kafka / Redpanda
 - Workflow Orchestration & Automation: Kestra
