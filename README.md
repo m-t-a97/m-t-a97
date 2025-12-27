@@ -1,6 +1,3 @@
-> [!NOTE]
-> I'm actively looking for a new role e.g. Contract, Freelance, Full-Time + Internationally Remote. Please reach out to me via Email/LinkedIn if you have any opportunities available. Thank you very much and much appreciated.
-
 ## Hi there :wave:, my name's Tanvir.
 
 I'm a Senior Full-Stack Software Engineer who uses the latest and greatest technologies. I love learning about and using the latest tech out there. 
