@@ -5,8 +5,9 @@ I'm a Senior Full-Stack Software Engineer from the UK. Thanks for checking out m
 ### Tech Stack:
 
 `Frontend`:
-- HTML, CSS, JavaScript / TypeScript
-- React + Frameworks (Next.js, React Router), React Native, Vue.js, Angular
+- HTML, CSS, JavaScript/TypeScript, TailwindCSS, Shadcn UI, Framer Motion
+- Frameworks: React Router, Next.js, Tanstack Start, React Native, Vue.js, Angular
+- Runtimes: Vite, Deno, Bun
 
 `Backend`:
 - Node.js (Express.js / Nest.js)
