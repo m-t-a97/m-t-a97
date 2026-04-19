@@ -1,6 +1,6 @@
 ## Hi there :wave:, my name's Tanvir.
 
-I'm a Senior Full-Stack Software Engineer who uses the latest and greatest technologies. I love learning about and using the latest tech out there. 
+I'm a Senior Full-Stack Software Engineer from the UK. Thanks for checking out my profile :)
 
 ### Tech Stack:
 
@@ -10,19 +10,20 @@ I'm a Senior Full-Stack Software Engineer who uses the latest and greatest techn
 
 `Backend`:
 - Node.js (Express.js / Nest.js)
-- Go
+- Go (Chi, Echo, Authula)
 
 `Databases`:
-- SQL: Postgresql
-- NoSQL: Firestore, MongoDB
+- SQL: SQLite, PostgreSQL
+- NoSQL: Firestore, MongoDB, DynamoDB
 
 `Cloud`:
 - GCP
 - AWS
+- Supabase, Railway, Render, Vercel
 
 `Others`:
 - Cache: Redis
-- Message Queues: RabbitMQ
-- Event Streaming: Apache Kafka / Redpanda
+- Message Queues: PGMQ, RabbitMQ
+- Event Streaming: Apache Kafka/Redpanda
 - Workflow Orchestration & Automation: n8n, Kestra
 - Observability: ClickStack
