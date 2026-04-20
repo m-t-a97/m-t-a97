@@ -25,6 +25,6 @@ I'm a Senior Full-Stack Software Engineer from the UK. Thanks for checking out m
 `Others`:
 - Cache: Redis
 - Message Queues: PGMQ, RabbitMQ
-- Event Streaming: Apache Kafka/Redpanda
+- Event Streaming: Redis Streams, Apache Kafka/Redpanda
 - Workflow Orchestration & Automation: n8n, Kestra
 - Observability: ClickStack
