@@ -28,3 +28,9 @@ I'm a Senior Full-Stack Software Engineer from the UK. Thanks for checking out m
 - Event Streaming: Redis Streams, Apache Kafka/Redpanda
 - Workflow Orchestration & Automation: n8n, Kestra
 - Observability: ClickStack
+
+---
+
+### Current projects:
+- [Authula](https://authula.dev)
+- [CliqRelay](https://cliqrelay.com)
